@@ -1,0 +1,26 @@
+{
+  "name": "handinhand",
+  "version": "1.0.0",
+  "description": "Manage donations to hand-in-hand children",
+  "main": "index.js",
+  "engines": {
+    "node": "6.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gik0geck0/handinhand.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gik0geck0/handinhand/issues"
+  },
+  "homepage": "https://github.com/gik0geck0/handinhand#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
